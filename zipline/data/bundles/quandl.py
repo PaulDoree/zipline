@@ -193,7 +193,7 @@ def quandl_bundle(environ,
                   show_progress,
                   output_dir):
     """
-    quandl_bundle builds a data bundle using Quandl's WIKI Prices dataset.
+    quandl_bundle builds a daily dataset using Quandl's WIKI Prices dataset.
 
     For more information on Quandl's API and how to obtain an API key,
     please visit https://docs.quandl.com/docs#section-authentication
